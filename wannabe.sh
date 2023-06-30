@@ -1,1 +1,1 @@
-echo "So tell me what you want, what you really really want" > spice-girls.txt
+echo "So tell me what you want, what you really really want" > staging/spice-girls.txt
